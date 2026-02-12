@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "alluring-rapturez",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "9f5f153b-4170-45de-812e-3184dc2c0bc2",
+			"database_name": "alluring_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
